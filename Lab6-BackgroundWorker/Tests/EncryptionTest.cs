@@ -26,7 +26,7 @@ namespace Tests {
             string expectedResult = null;
 
             //act
-            string result = (string)type.InvokeStatic("validatePassword", new[] { password });
+            string result = (string)type.InvokeStatic("ValidatePassword", new[] { password });
 
             //assert
             Assert.AreEqual(expectedResult, result);

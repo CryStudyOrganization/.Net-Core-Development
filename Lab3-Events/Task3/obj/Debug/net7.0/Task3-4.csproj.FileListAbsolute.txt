@@ -1,0 +1,14 @@
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\bin\Debug\net7.0\Task3-4.exe
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\bin\Debug\net7.0\Task3-4.deps.json
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\bin\Debug\net7.0\Task3-4.runtimeconfig.json
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\bin\Debug\net7.0\Task3-4.dll
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\bin\Debug\net7.0\Task3-4.pdb
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.AssemblyInfoInputs.cache
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.AssemblyInfo.cs
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.csproj.CoreCompileInputs.cache
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.dll
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\refint\Task3-4.dll
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.pdb
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\Task3-4.genruntimeconfig.cache
+D:\Projects\Labs\DOTNET\Lab3-Events\Task3\obj\Debug\net7.0\ref\Task3-4.dll

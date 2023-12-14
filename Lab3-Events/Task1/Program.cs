@@ -47,6 +47,7 @@ namespace Task1
 
             calculator.PerformCalculation(10, 15);
 
+
             TimeSpan elapsedTime = timer.Stop();
 
             Console.WriteLine("Calculation completed in {0} milliseconds.", elapsedTime.TotalMilliseconds);

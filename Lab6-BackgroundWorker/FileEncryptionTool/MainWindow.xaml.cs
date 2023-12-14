@@ -272,7 +272,7 @@ namespace FileEncryptionTool
             string _password = passwordBox.Password;
             string _passwordRepeat = passwordBoxRepeat.Password;
 
-            string passwordError = User.validatePassword(_password);
+            string passwordError = User.ValidatePassword(_password);
             string repeatError = validateRepeatedPassoword();
 
             if(passwordError == null && repeatError == null && !String.IsNullOrEmpty(_email))
@@ -306,7 +306,7 @@ namespace FileEncryptionTool
 
         private void passwordBox_PasswordChanged(object sender, RoutedEventArgs e)
         {
-            string error = User.validatePassword(passwordBox.Password);
+            string error = User.ValidatePassword(passwordBox.Password);
 
             if (error != null) passwordError.Content = error;
             else passwordError.Content = "";

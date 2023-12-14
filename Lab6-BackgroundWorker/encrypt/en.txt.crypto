@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EncryptedFileHeader>
+  <Algorithm>AES</Algorithm>
+  <KeySize>256</KeySize>
+  <BlockSize>8</BlockSize>
+  <CipherMode>ECB</CipherMode>
+  <IV>AQIDBAUGBwgJAAECAwQFBg==</IV>
+  <FileExtension>.txt</FileExtension>
+  <ApprovedUsers>
+    <User>
+      <Email>example@gmail.com</Email>
+      <SessionKey>VOOYiKxs3m4PwMPjyTL9+A6vKZ8zC1bcBjEF38TpGYaYWk7h1LIryVgfAOH50VcaEyTXobqvrLZqKewev9EbHfzAGc4HTMWOVOYjx8JUJOE/K3b2OPjOV+GlU48Rf1n5Gp9/2B1D36xtbYs4CMc2nAHIpbDlaN56G4QCzdLpm60=</SessionKey>
+    </User>
+  </ApprovedUsers>
+</EncryptedFileHeader>
+DATA
+³ÐSÁQI±Hž×(¼ÔÝ•ËÉnñ;°áŸ-fkÑrîWáú®ŽÊ]¿®€tõ„“-Ua»Ïüy˜ÓLÅÈ0Yp‚òÅ•}öýªÂº6¥BF¢ÙF¤#.·L
