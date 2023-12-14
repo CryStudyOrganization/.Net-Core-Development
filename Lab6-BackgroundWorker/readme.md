@@ -4,7 +4,7 @@ WPF C# Application that can be used to encrypt files with a defined list of reci
 
 ### Installing
 
-Project was created in Visual Studio 2017, which should be used to open and modify the files.
+Project was created in Visual Studio 2022, which should be used to open and modify the files.
 
 ## License
 
